@@ -1,6 +1,6 @@
 i am a random dude. an enthusiast and ambitious. love engineering, mathematics and programing.
 
-know c# and python.
+know ~~c#~~ and python.
 
 idk what to type here, go to my "portfolio" [website](https://spaceginner.github.io/), it has dark theme ;)
 
