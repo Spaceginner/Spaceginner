@@ -13,6 +13,4 @@ rn know python and kinda c++
 if you wanna spam my dms: Spaceginner#7688
 ...dont mind spamming my mail box too: ivan.demian2009@gmail.com
 
-### for secrets
-
-and, if you have something very secret for me, here is a [key](https://gist.github.com/Spaceginner/9e8bfa0702fd34e35c64db889c6f7e5f)
+ and if you are a :nerd:, i have also got a [public key](https://gist.github.com/Spaceginner/9e8bfa0702fd34e35c64db889c6f7e5f)
