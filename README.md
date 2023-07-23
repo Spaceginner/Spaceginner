@@ -6,7 +6,7 @@ very young and abitious teen. loves engineering, maths and programming
 
 before worked with java and c#, now i have forgot them
 
-rn know python and kinda c++
+rn know python and kinda ~~c++~~ rust
 
 ## contact
 
